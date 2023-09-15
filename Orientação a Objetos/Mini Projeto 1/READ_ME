@@ -1,0 +1,5 @@
+O meu pseudocódigo tem o objetivo de demonstrar algumas formas geométricas em forma de classes e gerando uma interação entre elas.
+Comecei criando uma classe formaGeométrica com os atributos nome e cor. em seguida criei as classes retangulo, triangulo e circulo e 
+seus atríbutos e metodos logos abaixo da forma que eu entendi em sala de aula, os metodos são para calcular principalmente a área e o perimetro. 
+Eu fiquei na duvida de como interagir essas formas geometricas mais a fundo, então resolvi evitar erros. 
+Logo abaixo, eu tentei criar uma interface com básico de laços que eu sei, caso o senhor queira desconsiderar, fique a vontade, porque pode conter muitos erros.
